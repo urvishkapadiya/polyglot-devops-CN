@@ -1,3 +1,4 @@
+Note: This project is a fork of opentelemetry-demo repository, which showcases a microservice-based distributed system written in multiple programming languages.
 <!-- markdownlint-disable-next-line -->
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
